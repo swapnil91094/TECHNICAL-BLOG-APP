@@ -1,0 +1,21 @@
+LIBRARIES IMPORTED:
+
+from flask import Flask, render_template,request,session,redirect
+from flask_sqlalchemy import SQLAlchemy
+from werkzeug.utils import secure_filename
+pip install mysql client
+
+1.Run app on browser by using http://127.0.0.1:5000/
+  login id:swapnil
+  password :swapnil91094
+ 
+step 1 : 127.0.0.1:5000/dashboard By using above given id and password do login first.On dashboard you will get various options of
+1.Adding new post
+2.Upload file
+3.Log out option.
+4.Edit and delete posts option.
+
+step 2 : On home page you will get brief introduction of posts.And There are option of previous post and next post.
+
+step 3 : whatever entries you post on contact page that will be stored in posts table in sql database
+ 

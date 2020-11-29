@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root@localhost/DataRevolution",
+        "prod_uri":"mysql://root@localhost/DataRevolution",
+        "fb_url":"https://facebook.com/DataRevolution",
+        "tw_url":"https://twitter.com/DataRevolution",
+        "gh_url":"https://github.com/DataRevolution",
+        "inst_url":"https://instagram.com/DataRevolution",
+        "blog_name":"DATA REVOLUTION",
+        "tag_line":"Blog followed by data enthusiast",
+        "about_text":"Hi my name is swapnil  i am learning flask",
+        "no_of_posts": 3,
+        "login_image":"login.svg",
+        "admin_user":"swapnil",
+        "admin_password":"swapnil91094",
+        "upload_location":"C:\\Users\\HP\\Desktop\\flask coding"
+    }
+
+}
